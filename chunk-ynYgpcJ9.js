@@ -1,0 +1,1 @@
+import {aG as T}from'./main-JDGY3PWR.js';var t=T("Share",{web:()=>import('./chunk-Dp_GEODc.js').then(r=>new r.ShareWeb)});export{t};

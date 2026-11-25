@@ -1,0 +1,1 @@
+import {bg as E,bj as L,bk as P}from'./main-JDGY3PWR.js';var o=class extends E{async processImage(p){throw this.createUnimplementedException()}createUnimplementedException(){return new L("This method is not implemented on web.",P.Unimplemented)}};export{o as TextRecognitionWeb};
